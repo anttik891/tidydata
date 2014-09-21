@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Unless the working directory contains file called "projectData.ZIP",
 the script will download a file from "https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip",
 and then unzips it into directory called "UCI HAR Dataset".
@@ -17,3 +18,9 @@ The last part of the script will make a tidy dataset giving the average
 for every subject by every activity.
 
 
+=======
+tidydata
+========
+
+Repository for the Coursera data cleaning project
+>>>>>>> 6d34a01238039f0377b0f1fa99ef124eeac4e804
